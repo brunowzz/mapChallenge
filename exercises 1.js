@@ -1,3 +1,5 @@
+// usando o map, as pessoas que são vip irão para a area black, as que não são vip vão para o setor green
+
 const list = [
     { name: 'Rodolfo', vip: true},
     { name: 'Maria', vip: false},
