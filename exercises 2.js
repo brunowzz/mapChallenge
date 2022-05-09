@@ -1,4 +1,4 @@
-// 
+// usando map, as pessoas que tirarem nota maior ou igual a 7 receberão um 'Okay', caso tire uma nota menor que 7 receberá 'failed'
 
 const students = [
     { name: 'Rodolfo', testGrade: 7},
